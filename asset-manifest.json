@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LouisPierre-Andre/music.git/static/css/main.9ff3bce5.css",
-    "main.js": "/LouisPierre-Andre/music.git/static/js/main.3c259457.js",
-    "static/js/787.28cb0dcd.chunk.js": "/LouisPierre-Andre/music.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/background.jpg": "/LouisPierre-Andre/music.git/static/media/background.3856d853bb21be16a012.jpg",
-    "index.html": "/LouisPierre-Andre/music.git/index.html",
-    "main.9ff3bce5.css.map": "/LouisPierre-Andre/music.git/static/css/main.9ff3bce5.css.map",
-    "main.3c259457.js.map": "/LouisPierre-Andre/music.git/static/js/main.3c259457.js.map",
-    "787.28cb0dcd.chunk.js.map": "/LouisPierre-Andre/music.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/LouisPierre-Andre/music/static/css/main.eb8ece45.css",
+    "main.js": "/LouisPierre-Andre/music/static/js/main.e23816f4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/LouisPierre-Andre/music/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.jpg": "/LouisPierre-Andre/music/static/media/background.3856d853bb21be16a012.jpg",
+    "index.html": "/LouisPierre-Andre/music/index.html",
+    "main.eb8ece45.css.map": "/LouisPierre-Andre/music/static/css/main.eb8ece45.css.map",
+    "main.e23816f4.js.map": "/LouisPierre-Andre/music/static/js/main.e23816f4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/LouisPierre-Andre/music/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ff3bce5.css",
-    "static/js/main.3c259457.js"
+    "static/css/main.eb8ece45.css",
+    "static/js/main.e23816f4.js"
   ]
 }
