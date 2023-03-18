@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LouisPierre-Andre/music/static/css/main.eb8ece45.css",
-    "main.js": "/LouisPierre-Andre/music/static/js/main.e23816f4.js",
-    "static/js/787.28cb0dcd.chunk.js": "/LouisPierre-Andre/music/static/js/787.28cb0dcd.chunk.js",
-    "static/media/background.jpg": "/LouisPierre-Andre/music/static/media/background.3856d853bb21be16a012.jpg",
-    "index.html": "/LouisPierre-Andre/music/index.html",
-    "main.eb8ece45.css.map": "/LouisPierre-Andre/music/static/css/main.eb8ece45.css.map",
-    "main.e23816f4.js.map": "/LouisPierre-Andre/music/static/js/main.e23816f4.js.map",
-    "787.28cb0dcd.chunk.js.map": "/LouisPierre-Andre/music/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/music/static/css/main.dc9d2927.css",
+    "main.js": "/music/static/js/main.0c41d642.js",
+    "static/js/787.28cb0dcd.chunk.js": "/music/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.jpg": "/music/static/media/background.3856d853bb21be16a012.jpg",
+    "index.html": "/music/index.html",
+    "main.dc9d2927.css.map": "/music/static/css/main.dc9d2927.css.map",
+    "main.0c41d642.js.map": "/music/static/js/main.0c41d642.js.map",
+    "787.28cb0dcd.chunk.js.map": "/music/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb8ece45.css",
-    "static/js/main.e23816f4.js"
+    "static/css/main.dc9d2927.css",
+    "static/js/main.0c41d642.js"
   ]
 }
